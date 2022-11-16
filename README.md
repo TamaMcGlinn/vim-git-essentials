@@ -12,6 +12,7 @@ If using [Plug](https://github.com/junegunn/vim-plug), add this to your vimrc:
 Plug 'tpope/vim-fugitive'
 Plug 'mhinz/vim-signify'
 Plug 'aacunningham/vim-fuzzy-stash'
+Plug 'rbong/vim-flog'
 
 Plug 'TamaMcGlinn/vim-git-essentials'
 ```
