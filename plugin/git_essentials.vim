@@ -30,3 +30,7 @@ let g:fuzzy_stash_actions = {
 
 " Flog settings
 let g:flog_default_arguments = { 'date' : 'short' }
+
+" Git messenger settings
+let g:git_messenger_include_diff = 'current'
+
